@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">StateConnectorClient</string>
+    <string name="servers_list">Servers List</string>
+    <string name="method_output">Method Output</string>
+    <string name="new_server">New Server</string>
+    <string name="methods_list">Methods List</string>
+    <string name="edit_server">Edit Server</string>
+    <string name="delete_server">Delete Server</string>
+    <string name="menu_settings">Settings</string>
+    <string name="display_name">Display Name</string>
+    <string name="webservice_url">Webservice Url</string>
+    <string name="api_key">Api key</string>
+    <string name="save_button">Save</string>
+    <string name="cancel_button">Cancel</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_method">MethodActivity</string>
+    <string name="reportable">Attached to Service</string>
+    <string name="not_reportable">Not attached to Service</string>
+
+</resources>
